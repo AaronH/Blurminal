@@ -24,14 +24,14 @@
 	<string>Blurminal</string>
 	<key>SIMBLTargetApplications</key>
 	<array>
-	        <dict>
-	                <key>BundleIdentifier</key>
-	                <string>com.apple.Terminal</string>
-	                <key>MaxBundleVersion</key>
-	                <string>237</string>
-	                <key>MinBundleVersion</key>
-	                <string>237</string>
-	        </dict>
+		<dict>
+			<key>BundleIdentifier</key>
+			<string>com.apple.Terminal</string>
+			<key>MaxBundleVersion</key>
+			<string>273</string>
+			<key>MinBundleVersion</key>
+			<string>240</string>
+		</dict>
 	</array>
 </dict>
 </plist>
